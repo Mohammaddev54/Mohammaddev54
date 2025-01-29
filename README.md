@@ -3,7 +3,7 @@
 Hi there 👋
 
 ### 🔭 I’m currently working on ...
-A Duplicate searching application like program with gui on my computer using Python programming language.
+A Duplicate file searching application like program with gui on my computer using Python programming language.
 
 ### 📫 How to reach me: ...
 Email: mohammaddev54@gmail.com
