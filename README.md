@@ -2,14 +2,8 @@
 
 Hi there 👋
 
-### What am I doing right now?
+### Status:
 A bit burnt out after writing the duplication scanning app.
-
-### 🌱 I’m currently learning:
-How to use Git and Github.
-
-### 🤔 I’m looking for help with:
-Understanding threading module or liberary in python.
 
 ### ⚡ Fun fact:
 I am using different free Resources to learn python and other Computer realated information.
@@ -25,4 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - 🔭 I’m currently working on: ...
+- 🌱 I’m currently learning: ...
+- 🤔 I’m looking for help with: ...
+What am I doing right now?
 -->
