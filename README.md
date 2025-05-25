@@ -2,8 +2,8 @@
 
 Hi there 👋
 
-### 🔭 I’m currently working on:
-A Duplicate file searching application like program with gui on my computer using Python programming language.
+### What am I doing right now?
+A bit burnt out after writing the duplication scanning app.
 
 ### 🌱 I’m currently learning:
 How to use Git and Github.
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
+- 🔭 I’m currently working on: ...
 -->
