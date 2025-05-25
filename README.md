@@ -3,7 +3,7 @@
 Hi there 👋
 
 ### Status:
-A bit burnt out after writing the duplication scanning app.
+A bit burnt out after writing the duplication scanning script.
 
 ### ⚡ Fun fact:
 I am using different free Resources to learn python and other Computer realated information.
