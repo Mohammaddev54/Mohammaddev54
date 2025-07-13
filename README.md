@@ -1,25 +1,19 @@
-# About me
+<h1 align="center">Hi 👋, I'm Mohammaddev54</h1>
+<h3 align="center">I am a self teaching python programmer.</h3>
 
-Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammaddev54&label=Profile%20views&color=0e75b6&style=flat" alt="mohammaddev54" /> </p>
 
-### Status:
-A bit burnt out after writing the duplication scanning script.
+- 📫 How to reach me **mohammaddev54@gmail.com**
 
-### ⚡ Fun fact:
-I am using different free Resources to learn python and other Computer realated information.
+- ⚡ Fun fact **I think one of the best ways to solve your programming problems is to be good at debugging.**
 
-### 📫 How to reach me:
-Email: mohammaddev54@gmail.com
-<!--
-**Mohammaddev54/Mohammaddev54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/mohammad_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/UAUbQpAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UAUbQpAm" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- 🔭 I’m currently working on: ...
-- 🌱 I’m currently learning: ...
-- 🤔 I’m looking for help with: ...
-What am I doing right now?
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammaddev54&show_icons=true&locale=en" alt="mohammaddev54" /></p>
